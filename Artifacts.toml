@@ -1,0 +1,144 @@
+[[QOCO]]
+arch = "aarch64"
+git-tree-sha1 = "e0c0d6b032d9454f6f23ba22510c47a9d1c32083"
+os = "macos"
+
+    [[QOCO.download]]
+    sha256 = "d3b77ae7241f5773ac3a7bb664a080e469131bec96d362ded187d221b1143c3e"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.aarch64-apple-darwin.tar.gz"
+[[QOCO]]
+arch = "aarch64"
+git-tree-sha1 = "bdc7d9790780d33b1639c20e3b66c7da67b67568"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "769805b85f6f38d8a88d57e0b55403ebb808614008fbec313a57bc0cbd8bcd69"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.aarch64-linux-gnu.tar.gz"
+[[QOCO]]
+arch = "aarch64"
+git-tree-sha1 = "379f149dac5ad85da745edecd5af0e0e16759e6c"
+libc = "musl"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "560c82009a41d001be5bd5632b616cfb8209d8d06d389fc0f3f97ef2bafc6060"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.aarch64-linux-musl.tar.gz"
+[[QOCO]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e28efb2319e8db4630b52d27eb342b641d0dd4b2"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "c5e5d09a8412b44f25ccf0ea7644d54f8254bea1562b4afd2c0ee49d56fef34f"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.armv6l-linux-gnueabihf.tar.gz"
+[[QOCO]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5bea25535f6600f625319dc644dcf926f5aa879e"
+libc = "musl"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "da6f4fc6e15d58cf5b2256135cbb01775e759da55669321d7aa9cfab4a67ce59"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.armv6l-linux-musleabihf.tar.gz"
+[[QOCO]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4ac750924a8f2e53075e327c03a177d8ca08aa70"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "462e836a90958f45e1fcb6534c000a9547b5d43370a7885c6378edb15f3ebb55"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.armv7l-linux-gnueabihf.tar.gz"
+[[QOCO]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0fce3a9b695caf8d5e85dab8e15335708b3db7bb"
+libc = "musl"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "99794fbf30c106ccb1be0ec9d1153c7ab87342fa3c6d4bbcb33a365b47f93c1d"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.armv7l-linux-musleabihf.tar.gz"
+[[QOCO]]
+arch = "i686"
+git-tree-sha1 = "14170e496557a66db0a1cdee3fe576cd6e7bf08a"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "4a7c7ac414d07ba24f47e112ff8603ca6e835d2a84ae3ceea6037565f912ea20"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.i686-linux-gnu.tar.gz"
+[[QOCO]]
+arch = "i686"
+git-tree-sha1 = "891eabcf6690f0068a0951611506c4e875144d1f"
+libc = "musl"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "964d3266c0b106d980ef928151bfb594858941283f4978f16c182b6e13da91f4"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.i686-linux-musl.tar.gz"
+[[QOCO]]
+arch = "i686"
+git-tree-sha1 = "d02476d4ed3316608d380a451494841c21e587ec"
+os = "windows"
+
+    [[QOCO.download]]
+    sha256 = "f2315c0f08172a10c5b8f3a6dd6aa716073fa1dac86f5ae73a4a0fdc713ad286"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.i686-w64-mingw32.tar.gz"
+[[QOCO]]
+arch = "powerpc64le"
+git-tree-sha1 = "16d81cb264ec672f65708cdfbf50c5cfd114a703"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "805350b525dee8d5f58033ba23d2701104d12dad883472e736c0b42bdb55766c"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.powerpc64le-linux-gnu.tar.gz"
+[[QOCO]]
+arch = "riscv64"
+git-tree-sha1 = "c4aae8447fd679f5bdfcfae3b551a5be8d60b219"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "e79b368b2de2bfa578de2581f51473fe9d2de092e8858303a17d11bfcbfac9c1"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.riscv64-linux-gnu.tar.gz"
+[[QOCO]]
+arch = "x86_64"
+git-tree-sha1 = "42ccbe545bfbc179199e82a88a3990231a8dafc4"
+os = "macos"
+
+    [[QOCO.download]]
+    sha256 = "ead478e35e0a09eff60fc3f8a25234d8b3dde9e2f7ab213dd97adde326ddaa2a"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.x86_64-apple-darwin.tar.gz"
+[[QOCO]]
+arch = "x86_64"
+git-tree-sha1 = "acff973fb1252fdb63e02fa5ef39eb94f7cd7d14"
+libc = "glibc"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "952529b233d37fadc5229ee16ad4a141c1191ccea5492a8fe292c97b038989e4"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.x86_64-linux-gnu.tar.gz"
+[[QOCO]]
+arch = "x86_64"
+git-tree-sha1 = "739b537987b3240c1b1ecf586a053f5eeaa43715"
+libc = "musl"
+os = "linux"
+
+    [[QOCO.download]]
+    sha256 = "26f426f7cbd22199bf0fcd876d502a282cfc2ff0f0479824679b1287682ab2c7"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.x86_64-linux-musl.tar.gz"
+[[QOCO]]
+arch = "x86_64"
+git-tree-sha1 = "2aec6103f94bbfa736aeb59af7c6ee5adda8e3dc"
+os = "windows"
+
+    [[QOCO.download]]
+    sha256 = "9ad40398048c15dece82318b8881137f355810eebdb9d155942a9d0d8b8ed458"
+    url = "https://github.com/JuliaBinaryWrappers/QOCO_jll.jl/releases/download/QOCO-v0.1.6+0/QOCO.v0.1.6.x86_64-w64-mingw32.tar.gz"
